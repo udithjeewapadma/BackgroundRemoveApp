@@ -7,7 +7,7 @@ const Header = () => {
      gap-y-10 px-4 mt-10 lg:px-44 sm:mt-20'>
         {/*-----Left side------*/}
         <div>
-           <h1 className=' text-4xl xl:text-5xl 2xl:text-6xl font-bold text-neutral-700 leading-tight'>
+           <h1 className=' text-5xl  2xl:text-6xl font-bold text-neutral-700 leading-tight'>
             Remove the <br className=' max-md:hidden' /> 
             <span className=' bg-gradient-to-r from-violet-400 to-fuchsia-600 bg-clip-text text-transparent'>
             background</span> from <br className=' max-md:hidden' /> images for free.
